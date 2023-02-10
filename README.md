@@ -1,5 +1,4 @@
 # Backend MERN - Calendar
 
-Backend que creamos en mi curso de React: de cero a experto
+# Modificar el archivo .env.template a .env y agregar las variables de entorno correspondientes
 
-fernando-herrera.com
